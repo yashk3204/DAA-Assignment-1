@@ -1,0 +1,66 @@
+n = 7115, m = 100762
+Graph defined
+Found 10000 cliques so far
+Found 20000 cliques so far
+Found 30000 cliques so far
+Found 40000 cliques so far
+Found 50000 cliques so far
+Found 60000 cliques so far
+Found 70000 cliques so far
+Found 80000 cliques so far
+Found 90000 cliques so far
+Found 100000 cliques so far
+Found 110000 cliques so far
+Found 120000 cliques so far
+Found 130000 cliques so far
+Found 140000 cliques so far
+Found 150000 cliques so far
+Found 160000 cliques so far
+Found 170000 cliques so far
+Found 180000 cliques so far
+Found 190000 cliques so far
+Found 200000 cliques so far
+Found 210000 cliques so far
+Found 220000 cliques so far
+Found 230000 cliques so far
+Found 240000 cliques so far
+Found 250000 cliques so far
+Found 260000 cliques so far
+Found 270000 cliques so far
+Found 280000 cliques so far
+Found 290000 cliques so far
+Found 300000 cliques so far
+Found 310000 cliques so far
+Found 320000 cliques so far
+Found 330000 cliques so far
+Found 340000 cliques so far
+Found 350000 cliques so far
+Found 360000 cliques so far
+Found 370000 cliques so far
+Found 380000 cliques so far
+Found 390000 cliques so far
+Found 400000 cliques so far
+Found 410000 cliques so far
+Found 420000 cliques so far
+Found 430000 cliques so far
+Found 440000 cliques so far
+Found 450000 cliques so far
+Execution Time: 7802 ms
+Total Number of Maximal Cliques: 459002
+Clique Size Frequency:
+Size 2: 8655 cliques
+Size 3: 13718 cliques
+Size 4: 27292 cliques
+Size 5: 48416 cliques
+Size 6: 68872 cliques
+Size 7: 83266 cliques
+Size 8: 76732 cliques
+Size 9: 54456 cliques
+Size 10: 35470 cliques
+Size 11: 21736 cliques
+Size 12: 11640 cliques
+Size 13: 5449 cliques
+Size 14: 2329 cliques
+Size 15: 740 cliques
+Size 16: 208 cliques
+Size 17: 23 cliques

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bron–Kerbosch Algorithm</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header class="header">
+    <h1>Bron–Kerbosch Algorithm</h1>
+    <a href="index.html" class="home-link">Back to Home</a>
+  </header>
+
+  <!-- Histograms Section -->
+  <section class="histograms-section">
+    <h2>Clique Size Distribution</h2>
+    <div class="histogram-container">
+      <h3>Email-Enron</h3>
+      <canvas id="histogram1"></canvas>
+    </div>
+    <div class="histogram-container">
+      <h3>Wiki-Vote</h3>
+      <canvas id="histogram2"></canvas>
+    </div>
+    <div class="histogram-container">
+      <h3>AS-Skitter</h3>
+      <canvas id="histogram3"></canvas>
+    </div>
+  </section>
+
+  <!-- Detailed Report Section -->
+  <section class="report-section">
+    <h2>Detailed Report</h2>
+    <p>
+      The <strong>Bron–Kerbosch Algorithm</strong> is a classic method for enumerating all maximal cliques in an undirected graph. Below are the key observations from our experiments:
+    </p>
+    <ul>
+      <li><strong>Largest Clique Size:</strong> 20 (Email-Enron), 17 (Wiki-Vote), 67 (AS-Skitter)</li>
+      <li><strong>Total Maximal Cliques:</strong> 226859 (Email-Enron), 459002 (Wiki-Vote), 37322355 (AS-Skitter)</li>
+      <li><strong>Execution Time:</strong> 0.974 (Email-Enron), 1.389 (Wiki-Vote), 212.470 (AS-Skitter)</li>
+    </ul>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
