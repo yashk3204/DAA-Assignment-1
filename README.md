@@ -32,9 +32,9 @@
 ## Links
 
 - [Report](https://drive.google.com/file/d/1tlA4FisdCrfhHJnxJ_BA4jFEstDXAeps/view?usp=sharing)
-- [GitHub Repository](https://github.com/yashk3204/Design-And-Analysis-Of-Algorithms-Project-1)
+- [GitHub Repository](https://github.com/yashk3204/DAA-Assignment-1)
 - [Drive link to datasets - raw and processed](https://drive.google.com/drive/folders/1-4az2Kc6ZPhNIgaqevhy0AFzrFek0PMV?usp=sharing)
-- [Project Webpage]()
+- [Project Webpage](https://yashk3204.github.io/DAA-Assignment-1/)
 
 ## Results
 
