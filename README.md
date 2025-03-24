@@ -43,6 +43,7 @@
 | :-------- | :------- | :------------------------- | :---------- |
 | Enron | 226859 | 20 | 7.257s |
 | WikiVote | 460185 | 17 | 4.844s |
+| Skitter | 37322355 | 67 | 47800.285s |
 
 ### Paper 2 - ELS
 | Dataset | No. of Maximal Cliques | Size of Largest Clique | Runtime |
