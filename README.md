@@ -31,7 +31,7 @@
 
 ## Links
 
-- [Report](https://drive.google.com/file/d/1tlA4FisdCrfhHJnxJ_BA4jFEstDXAeps/view?usp=sharing)
+- [Report](https://docs.google.com/document/d/1OJvAVCA9hipAlvutmo0I0FcI9P0egrckUJn4X4bl9xY/edit?usp=sharing)
 - [GitHub Repository](https://github.com/yashk3204/DAA-Assignment-1)
 - [Drive link to datasets - raw and processed](https://drive.google.com/drive/folders/1-4az2Kc6ZPhNIgaqevhy0AFzrFek0PMV?usp=sharing)
 - [Project Webpage](https://yashk3204.github.io/DAA-Assignment-1/)
